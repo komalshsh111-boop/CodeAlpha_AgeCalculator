@@ -17,5 +17,5 @@ I am currently working on small practice projects to improve my skills.
 - Build responsive websites
 - Learn React in future
 
-## Contact
-Feel free to check my GitHub repositories and follow my learning journey.
+## 🔗 Live Demo
+https://tumhara-username.github.io/repo-name/
